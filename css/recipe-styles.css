@@ -43,11 +43,10 @@ p {
 ul,
 ol {
   padding-left: 2rem;
-  margin: 0;
 }
 
 li {
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem;
 }
 
 a {
